@@ -103,7 +103,7 @@ export default function Fence() {
       fenceAmount: inputValueFenceAmount,
       PostSpaceUnit: PostSpaceUnitselectedValue,
       postSpace: inputValuePostspace,
-      totalstickamount:perimeter/inputValuePostspace - 
+      totalstickamount:perimeter/inputValuePostspace 
     });
   };
 
